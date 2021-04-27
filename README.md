@@ -1,4 +1,4 @@
-# Simple-Neural-Nets
+# Neural Networks and Deep Learning
 **Use of simple neural networks with lean architecture to solve classification problems.**
 
 A Neural Network(NN) is a computer program, loosely inspired by the structure of neuron in the brain. It consists of a large number of very simple interconnected elements which takes numeric inputs, computes a simple function over the inputs. 

@@ -81,7 +81,7 @@ https://www.kaggle.com/c/dog-breed-identification/data
 
 Provided with a training set and a test set of images of dogs. Each image has a filename that is its unique id. The dataset comprises 120 breeds of dogs. The goal of the competition is to create a classifier capable of determining a dog's breed from a photo.
 
-**Project-5: **
+**Project-5: Computer_Vision_Project_Face_recognition**
 
 _Face Recognition:_
 
